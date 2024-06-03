@@ -1,8 +1,8 @@
 ---
 title: 迁移到 GtiHub Pages
-categories: 开发
-toc: true
-permalink: /posts/migration-github-pages.html
+categories: 杂记
+toc: false
+permalink: /migration-github-pages.html
 ---
 
 从 2016 年开始尝试个人网站，至今也快 8 年了，几番折腾后，还是决心用 GitHub Pages 了。
